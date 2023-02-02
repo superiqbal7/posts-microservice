@@ -1,0 +1,3 @@
+# posts-microservice
+
+skaffold dev
